@@ -1,0 +1,6 @@
+feature_group,n_features,total_importance,mean_importance,max_importance
+Rolling Mean Features,45,50.640625,1.1253473,4.8974724
+Rolling Std Dev Features,45,11.494339,0.25542974,1.3977983
+Cycle Count,1,8.459081,8.459081,8.459081
+Raw Sensor Values,21,2.5101538,0.11953113,0.32111508
+Operating Settings,3,0.030651115,0.010217038,0.023459023

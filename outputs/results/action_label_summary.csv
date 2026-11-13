@@ -1,0 +1,6 @@
+action_label,n_engines,mean_pred_rul,mean_uncertainty,mean_risk_score
+CRITICAL,33,28.0,9.74,0.67
+HIGH,28,83.21,25.85,0.61
+MODERATE,5,71.12,17.31,0.57
+WATCH,4,106.1,22.38,0.43
+LOW,30,115.66,12.2,0.22

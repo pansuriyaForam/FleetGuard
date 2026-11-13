@@ -1,0 +1,116 @@
+rank,feature,mean_abs_shap,feature_group
+1,cycle,8.459081,Cycle Count
+2,sensor_15_mean_10,4.8974724,Rolling Mean Features
+3,sensor_04_mean_10,4.893063,Rolling Mean Features
+4,sensor_11_mean_5,3.7000718,Rolling Mean Features
+5,sensor_04_mean_5,3.6677325,Rolling Mean Features
+6,sensor_02_mean_10,3.274557,Rolling Mean Features
+7,sensor_15_mean_5,2.5922728,Rolling Mean Features
+8,sensor_14_mean_20,2.259957,Rolling Mean Features
+9,sensor_03_mean_10,1.9932394,Rolling Mean Features
+10,sensor_08_mean_20,1.6553067,Rolling Mean Features
+11,sensor_02_mean_5,1.4513192,Rolling Mean Features
+12,sensor_09_mean_5,1.4099475,Rolling Mean Features
+13,sensor_12_std_20,1.3977983,Rolling Std Dev Features
+14,sensor_13_std_20,1.3630767,Rolling Std Dev Features
+15,sensor_09_mean_20,1.2321541,Rolling Mean Features
+16,sensor_14_std_20,1.1986786,Rolling Std Dev Features
+17,sensor_07_mean_20,1.1473504,Rolling Mean Features
+18,sensor_09_std_20,1.1152328,Rolling Std Dev Features
+19,sensor_12_mean_20,1.1074051,Rolling Mean Features
+20,sensor_11_std_20,1.0619705,Rolling Std Dev Features
+21,sensor_08_mean_5,0.9622332,Rolling Mean Features
+22,sensor_07_std_20,0.9213118,Rolling Std Dev Features
+23,sensor_12_mean_5,0.90917593,Rolling Mean Features
+24,sensor_20_mean_20,0.90641564,Rolling Mean Features
+25,sensor_08_std_20,0.8809927,Rolling Std Dev Features
+26,sensor_09_mean_10,0.83557147,Rolling Mean Features
+27,sensor_04_mean_20,0.7887616,Rolling Mean Features
+28,sensor_03_mean_5,0.6949036,Rolling Mean Features
+29,sensor_11_mean_10,0.674532,Rolling Mean Features
+30,sensor_21_mean_20,0.65073913,Rolling Mean Features
+31,sensor_13_mean_5,0.61167884,Rolling Mean Features
+32,sensor_13_mean_20,0.6026828,Rolling Mean Features
+33,sensor_14_mean_5,0.5849979,Rolling Mean Features
+34,sensor_20_mean_5,0.5749636,Rolling Mean Features
+35,sensor_17_mean_20,0.5637446,Rolling Mean Features
+36,sensor_03_mean_20,0.55034477,Rolling Mean Features
+37,sensor_15_mean_20,0.5226254,Rolling Mean Features
+38,sensor_14_mean_10,0.5216211,Rolling Mean Features
+39,sensor_20_std_20,0.5056731,Rolling Std Dev Features
+40,sensor_07_mean_5,0.4949262,Rolling Mean Features
+41,sensor_07_mean_10,0.48546565,Rolling Mean Features
+42,sensor_17_mean_5,0.46414623,Rolling Mean Features
+43,sensor_08_mean_10,0.4207736,Rolling Mean Features
+44,sensor_13_mean_10,0.3824109,Rolling Mean Features
+45,sensor_21_mean_10,0.37439042,Rolling Mean Features
+46,sensor_15_std_20,0.3590414,Rolling Std Dev Features
+47,sensor_21_mean_5,0.35533643,Rolling Mean Features
+48,sensor_04_std_20,0.3230768,Rolling Std Dev Features
+49,sensor_08,0.32111508,Raw Sensor Values
+50,sensor_12,0.29801297,Raw Sensor Values
+51,sensor_02_mean_20,0.28514236,Rolling Mean Features
+52,sensor_12_mean_10,0.27505368,Rolling Mean Features
+53,sensor_20_mean_10,0.26702803,Rolling Mean Features
+54,sensor_07,0.25021482,Raw Sensor Values
+55,sensor_09,0.24459568,Raw Sensor Values
+56,sensor_11_mean_20,0.2429003,Rolling Mean Features
+57,sensor_11_std_10,0.24152903,Rolling Std Dev Features
+58,sensor_17_std_10,0.2226542,Rolling Std Dev Features
+59,sensor_11,0.21178673,Raw Sensor Values
+60,sensor_17_mean_10,0.20538889,Rolling Mean Features
+61,sensor_04,0.19581613,Raw Sensor Values
+62,sensor_17_std_20,0.19535781,Rolling Std Dev Features
+63,sensor_02,0.18921965,Raw Sensor Values
+64,sensor_13,0.18049371,Raw Sensor Values
+65,sensor_15,0.17398247,Raw Sensor Values
+66,sensor_06_mean_20,0.14898215,Rolling Mean Features
+67,sensor_21_std_20,0.14606954,Rolling Std Dev Features
+68,sensor_14,0.13738017,Raw Sensor Values
+69,sensor_02_std_20,0.13377534,Rolling Std Dev Features
+70,sensor_21_std_10,0.12750155,Rolling Std Dev Features
+71,sensor_20,0.11856968,Raw Sensor Values
+72,sensor_14_std_10,0.11856825,Rolling Std Dev Features
+73,sensor_13_std_10,0.1161563,Rolling Std Dev Features
+74,sensor_12_std_10,0.09592447,Rolling Std Dev Features
+75,sensor_08_std_10,0.08701648,Rolling Std Dev Features
+76,sensor_17,0.078646176,Raw Sensor Values
+77,sensor_02_std_10,0.06647825,Rolling Std Dev Features
+78,sensor_17_std_5,0.060609203,Rolling Std Dev Features
+79,sensor_20_std_10,0.059728365,Rolling Std Dev Features
+80,sensor_11_std_5,0.058239292,Rolling Std Dev Features
+81,sensor_03_std_10,0.05818071,Rolling Std Dev Features
+82,sensor_21,0.05525628,Raw Sensor Values
+83,sensor_03,0.055064205,Raw Sensor Values
+84,sensor_15_std_10,0.053652395,Rolling Std Dev Features
+85,sensor_03_std_5,0.048429348,Rolling Std Dev Features
+86,sensor_15_std_5,0.04818079,Rolling Std Dev Features
+87,sensor_06_std_20,0.047967687,Rolling Std Dev Features
+88,sensor_03_std_20,0.04644277,Rolling Std Dev Features
+89,sensor_04_std_10,0.0430311,Rolling Std Dev Features
+90,sensor_12_std_5,0.039982498,Rolling Std Dev Features
+91,sensor_07_std_10,0.039655674,Rolling Std Dev Features
+92,sensor_14_std_5,0.03477999,Rolling Std Dev Features
+93,sensor_09_std_10,0.034269117,Rolling Std Dev Features
+94,sensor_13_std_5,0.02715049,Rolling Std Dev Features
+95,sensor_21_std_5,0.024547523,Rolling Std Dev Features
+96,setting_1,0.023459023,Operating Settings
+97,sensor_20_std_5,0.02218021,Rolling Std Dev Features
+98,sensor_08_std_5,0.01706747,Rolling Std Dev Features
+99,sensor_07_std_5,0.014084454,Rolling Std Dev Features
+100,sensor_02_std_5,0.013186466,Rolling Std Dev Features
+101,sensor_04_std_5,0.012650379,Rolling Std Dev Features
+102,sensor_09_std_5,0.012231517,Rolling Std Dev Features
+103,setting_2,0.007192092,Operating Settings
+104,sensor_06_mean_10,0.0018375148,Rolling Mean Features
+105,sensor_06_std_10,0.00020802794,Rolling Std Dev Features
+106,sensor_06_std_5,0.0,Rolling Std Dev Features
+107,sensor_16,0.0,Raw Sensor Values
+108,sensor_06,0.0,Raw Sensor Values
+109,setting_3,0.0,Operating Settings
+110,sensor_19,0.0,Raw Sensor Values
+111,sensor_06_mean_5,0.0,Rolling Mean Features
+112,sensor_18,0.0,Raw Sensor Values
+113,sensor_05,0.0,Raw Sensor Values
+114,sensor_01,0.0,Raw Sensor Values
+115,sensor_10,0.0,Raw Sensor Values

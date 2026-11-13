@@ -1,0 +1,4 @@
+Strategy,Engines Selected,Tech-Hours Used,Remaining Budget,Total Benefit,Benefit vs Optimal,Utilization
+Optimal (MILP),47,345.0,0.0,3049.9,1.0,1.0
+Greedy: Risk Priority,41,342.0,3.0,2795.4,0.9165546411357749,0.991304347826087
+Greedy: Benefit/Cost Ratio,47,343.0,2.0,3041.9,0.9973769631791206,0.9942028985507246

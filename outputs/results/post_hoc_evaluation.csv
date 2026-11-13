@@ -1,0 +1,4 @@
+Strategy,Critical Engines Caught,Critical Engines Missed,Non-Critical Maintained,Recall (critical),Precision
+Optimal (MILP),28,5,19,0.8484848484848485,0.5957446808510638
+Greedy: Risk Priority,28,5,13,0.8484848484848485,0.6829268292682927
+Greedy: Benefit/Cost,27,6,20,0.8181818181818182,0.574468085106383
